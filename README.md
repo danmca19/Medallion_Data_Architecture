@@ -1,4 +1,4 @@
-![GIF genérico da arquitetura](https://github.com/danmca19/Medallion_Data_Architecture/blob/main/Gemini_Generated_Image_e6pzv9e6pzv9e6pz.png)
+![GIF genérico da arquitetura](https://github.com/danmca19/Medallion_Data_Architecture/blob/main/Gemini_Generated_Image_yylm17yylm17yylm.png) 
 
 Project Overview
 This project focuses on building an automated data pipeline using Databricks to consolidate, clean, and enrich raw data. The goal is to transform disparate raw data into a structured and valuable format, ready for advanced analytics, Business Intelligence (BI), and Machine Learning (ML) applications. The pipeline adheres to the Medallion Architecture (Bronze, Silver, Gold layers), ensuring data quality, reliability, and accessibility.
